@@ -2,7 +2,7 @@
 
 ## Installation
 
-    clone
+    git clone git@github.com:tsantef/appfog-rufus-example.git
 
 ## Deployment
 
